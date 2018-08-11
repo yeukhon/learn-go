@@ -1,2 +1,6 @@
 # learn-go
-Learn Go
+To run individual code, do this:
+
+```
+go run filename.go
+```
